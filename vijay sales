@@ -32,7 +32,7 @@ Salesman
 -Delivery / Dispatch
 -Types of payment mode available
 -New customers record
--Record of time taken by distributors to deliver to end user.
+-Record of time taken by distributors to deliver to customer.
 
 
 Admin/CEO
@@ -46,6 +46,11 @@ Inventory
 
 
 Marketing
+-Optimum price of product
+-Records of demand wise products
+-On which platform advertisement of product is to do
+-Customer friendly payment modes
+-Record of region wise product demand
 
 
 Stocks/Investors
