@@ -55,10 +55,12 @@ Logistics
 -Requirements of Consumers 
 
 
+
 Inventory
 -list of all products 
 -check all products are in stock.
 -Products price list, arrange according to there prices.
+-check whether the products are intack or not.
 
 
 
