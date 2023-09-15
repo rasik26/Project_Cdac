@@ -1,1 +1,13 @@
-sfsadfskjdfsjf
+Document: System Requirement 
+
+Title: Online assessment for C-DAC cources
+
+Team: Students, Faculties, Examiners(Head of Exam), Center manager, C-DAC director, Supervisor
+
+Objectives:To create an online web portal for different C-DAC cources. It is intended to provide
+	   assessment of students as per their modules. This getaway accessible for faculties and
+	   examiners. It will help to examine to setup an exam and evaluate it. It will also 
+	   facilitate students to know their results.
+
+Scope:  Examiner can evaluate the exam submitted by students. Results can be declared on the portal.
+	Through this students will know their elligibility for CCPP.
