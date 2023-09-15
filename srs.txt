@@ -17,7 +17,12 @@ Functional Requirements:
                 modules respective modules has its module end exam.Students can login, set their login password and can reset their password. Students can see 
                 their exam schedule. After completation of each module, module end exam will be conducted. Students will  receive their exam report.
 		Faculties After module end exam faculties can evaluate it.
-		CDAC representative should easily check the exam related status of the student. The syatem administrator will be able to upload exam paper sets 		with correct answers on the portal. System admin will be notify for the multiple registration of single student. The system admin will have access 		to web camera to track te activity of student during exam. The evaluated result to be displayed to admin and after accessibility by admin to 			students. The session id will be generated for each student when exam is started, session ID will ensure the exam resumption of the student on the 		abnormal termination of exam due to server or technical issue. 
+		CDAC representative should easily check the exam related status of the student. 
+		The syatem administrator will be able to upload exam paper sets with correct answers on the portal. 
+		System admin will be notify for the multiple registration of single student. 
+		The system admin will have access to web camera to track te activity of student during exam. 
+		The evaluated result to be displayed to admin and after accessibility by admin to students. 
+		The session id will be generated for each student when exam is started, session ID will ensure the exam resumption of the student on the abnormal 		termination of exam due to server or technical issue. 
 		
 
 Non Functional Requirement:
