@@ -11,3 +11,8 @@ Objectives:To create an online web portal for different C-DAC cources. It is int
 
 Scope:  Examiner can evaluate the exam submitted by students. Results can be declared on the portal.
 	Through this students will know their elligibility for CCPP.
+
+Functional Requirements: This portal is available for students as well as faculties for asssesments of students. In CDAC there are 			 different courses contents different modules respective modules has its module end exam.Students can 				login, set their login password and can reset their password. Students can see their exam schedule. After 			completation of each module, module end exam will be conducted. Students will  receive their exam report.
+				Faculties After module end exam faculties can evaluate it.
+				
+	
