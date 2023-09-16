@@ -3,3 +3,12 @@ User Story
 Student Story:
 
 Faculty:
+
+ 
+EXAMINER:
+           01. As an examiner,i want to submit filtered questions on the portal so that student can access at the time of exam.
+           02. As an examiner,i want to create "previous year question paper bank",so that student can refer it to improve their performance in upcoming exam.
+           03. As an examniner,i want an open feedback system by students to identify/show technical or mannual error in question papaer.
+           04. As an examiner,i want to upload answer key of a recently conducted exam on the portal so that student can cross verify their submitted answer.
+           05. As an examiner,i want to get student details for authentication so students can able to log in their account.
+           06. As an examiner,i want to get access to restart an exam at the time of random login error.
