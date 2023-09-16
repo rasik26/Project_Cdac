@@ -26,20 +26,31 @@ Functional Requirements:
 		
 
 Non Functional Requirement:
-		1.Security :Each student as well as staff members will be to access CDAC portal through authentication process. It would protect confidential 11
-                            information shared by student to system. 
-       			    System will internally maintain secure communication channel between servers sensitive data will be always encrypted across 
-                            communication.
+	     1.Security :        Each student as well as staff members will be to access CDAC portal through authentication process. It would protect confidential 11
+                                 information shared by student to system. 
+       			         System will internally maintain secure communication channel between servers sensitive data will be always encrypted across 
+                                 communication.
 
-		2.Realibility :The system will backup students data and recover in short time duration to keep system operational , continous updates are 
-                               maintained. 
-                               During peak hours system will maintain same user experiance by managing load balancing.
+	      2.Realibility :    The system will backup students data and recover in short time duration to keep system operational , continous updates are 
+                                 maintained. 
+                                 During peak hours system will maintain same user experiance by managing load balancing.
 
-		3.Portability : portable web portal provide portable user interface through  student will be able to access online web portal. System can be 
-                                deployed  to single server, multi server, to any OS, cloud.
+	      3.Portability :    portable web portal provide portable user interface through  student will be able to access online web portal. System can be 
+                                 deployed  to single server, multi server, to any OS, cloud.
                
-                4.Accessibility :Student will be able to access portal after authentication. Staff members as well as respected course members will be able to view 
+              4.Accessibility :  Student will be able to access portal after authentication. Staff members as well as respected course members will be able to view 
                                  module wise module wise growth graph of the marks .
+
+              5.DURABILITY :
+                                 System will retain registered candidate login session for five minutes after inactivity. system will maintain login history and his                                     recent modication/updates. system must save candidate incomplete profile so that candidate can login resume profile . software                                           application implement backup and recovery for retaining stakeholders data business operation data and candidate all saved data.
+
+              6.SCALABILITY:     The system will be scalable even if the user base expand exponentially. It will provide consistent user experience to students and                                       faculties hence there will be likely no breakdown. We will use load balancing to ensure there is no latency.
+
+              7.EFFICIENCY:
+                                 When the exam will be held the sites has been designed in efficient way so the site will always continue in her flow never get late                                      response time when the user login in the site during the exam session.
+
+               8.SAFETY:
+                                 The Online Assessment System will be secure from all types of database attacks, phishing. It will be always kept updated with latest                                     anti-virus. Data will be backed up on different servers and will be updated at frequent intervals.
 				
 	
 >>>>>>> 3cbda64dde00b6e4581656eb491ff6349b8f797d
