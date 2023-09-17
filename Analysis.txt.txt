@@ -1,1 +1,11 @@
 Analysis
+
+Modules
+1. login Page
+   classess:
+      Student Login:
+        1. Student's username'
+        2. Student's password
+        3. Forgot password
+        4. Student's email id
+        5. Mobile Number
