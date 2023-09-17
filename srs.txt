@@ -11,3 +11,35 @@ Objectives:To create an online web portal for different C-DAC cources. It is int
 
 Scope:  Examiner can evaluate the exam submitted by students. Results can be declared on the portal.
 	Through this students will know their elligibility for CCPP.
+<<<<<<< HEAD
+=======
+
+Functional Requirements: 
+               	This portal is available for students as well as faculties for asssesments of students. In CDAC there are different courses contents different modules respective modules has its module end exam.Students can login, set their login password and can reset their password. Students can see their exam schedule. After completation of each module, module end exam will be conducted. Students will  receive their exam report.
+		Faculties after module end exam faculties can evaluate it.Faculties can login, set their login password and reset their password. Faculties can make schedule of schedule od exam. Faculties can set the exam for students.   
+		CDAC representative should easily check the exam related status of the student. 
+		The system administrator will be able to upload exam paper sets with correct answers on the portal. 
+		System admin will be notify for the multiple registration of single student. 
+		The system admin will have access to web camera to track te activity of student during exam. 
+		The evaluated result to be displayed to admin and after accessibility by admin to students. 
+		The session id will be generated for each student when exam is started, session ID will ensure the exam resumption of the student on the abnormal termination of exam due to server or technical issue. 
+		
+
+Non Functional Requirement:
+		1.Security :Each student as well as staff members will be to access CDAC portal through authentication process. It would protect confidential 11
+                            information shared by student to system. 
+       			    System will internally maintain secure communication channel between servers sensitive data will be always encrypted across 
+                            communication.
+
+		2.Realibility :The system will backup students data and recover in short time duration to keep system operational , continous updates are 
+                               maintained. 
+                               During peak hours system will maintain same user experiance by managing load balancing.
+
+		3.Portability : portable web portal provide portable user interface through  student will be able to access online web portal. System can be 
+                                deployed  to single server, multi server, to any OS, cloud.
+               
+                4.Accessibility :Student will be able to access portal after authentication. Staff members as well as respected course members will be able to view 
+                                 module wise module wise growth graph of the marks .
+				
+	
+>>>>>>> 3cbda64dde00b6e4581656eb491ff6349b8f797d
