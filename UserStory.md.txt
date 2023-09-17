@@ -19,3 +19,10 @@ EXAMINER:
                submitted answer.
            05. As an examiner,i want to get student details for authentication so students can able to log in their account.
            06. As an examiner,i want to get access to restart an exam at the time of random login error.
+
+Supervisor:
+            1. As a supervisor, I want to supervise students so that they can't discuss while exam is going on.
+            2. As a supervisor, I want to login on exam portal so that I can allow student to give exam.
+            3. As a supervisor, I want to maintain discipline in the exam hall so that there will be comfortable enviorment.
+            4. As a supervisor, I want to be helpful so that it will help students for any query.
+            5. As a supervisor, I want to ensure that all the rules and regulation are being followed so that any misbehaviour can't take place.
