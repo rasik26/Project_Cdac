@@ -1,4 +1,4 @@
-9User Story
+User Story
 
 Student Story:
             1. As a student I want to register an exam portal so that I get Notification about exam.
