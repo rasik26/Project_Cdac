@@ -6,9 +6,12 @@ Student Story:
             3. As a student  I want to login exam portal so that attempt the exam.
             4. As a student I want to check assessment result so that I get my progress.
             5. As a student I want to login portal so that I can gget admit card.
-
 Faculty:
-
+	- As a faculty, I want to generate assessment report so that I can evaluate student performance.
+	- As a faculty, I want to login portal so that I can access my profile and edit my information.
+	- As a faculty, I can set examination.
+	- As a faculty, I can share study material and assignments.
+	- As a faculty, I can check syllabus so that I can conduct my lectures according to updated syllabus.
  
 EXAMINER:
            01. As an examiner,i want to submit filtered questions on the portal so that student can access at the time of exam.
