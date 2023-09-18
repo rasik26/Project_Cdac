@@ -26,3 +26,10 @@ Supervisor:
             3. As a supervisor, I want to maintain discipline in the exam hall so that there will be comfortable enviorment.
             4. As a supervisor, I want to be helpful so that it will help students for any query.
             5. As a supervisor, I want to ensure that all the rules and regulation are being followed so that any misbehaviour can't take place.
+
+CDAC-Director:
+	-As a director, I want to login so that I can view my profile and edit the information.\
+	-As a director, I want to see student details, their marks.
+	-As a director, I want to see the Schedule
+	-As a director, I want to see the Question paper so that I can include my suggestion.
+	-As a director, I can control the user access of the Students, Examiner, Faculty and Supervisor.
