@@ -9,3 +9,4 @@ Modules
         3. Forgot password
         4. Student's email id
         5. Mobile Number
+	6. student age
